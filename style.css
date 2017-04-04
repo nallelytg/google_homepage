@@ -3,6 +3,7 @@
   width:250px;
   position:relative;
 }
+
 .image_block a img{
  margin:auto; /* Required */
  position:absolute; /* Required */
@@ -11,3 +12,8 @@
  max-height:100%; /* images bigger than 175 px  */
  max-width:100%;  /* will be shrinked to size */ 
 }
+
+form {
+    display: inline-block;
+    text-align: center;
+    }
