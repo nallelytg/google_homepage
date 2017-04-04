@@ -1,14 +1,10 @@
-/*.image_block {
-	height: 100px;
-    width:250px;
-    position:relative;
-  
-}*/
 
 img.img_alignment{
 	display:block;
 	margin-left: auto;
 	margin-right: auto;
+	width: 300px;
+	margin-top: 200px;
 }
 
 form {
