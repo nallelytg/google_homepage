@@ -10,3 +10,9 @@ img.img_alignment{
 form {
     text-align: center;
     }
+
+#inputBox{
+
+	height: 200px;
+	width: 500px;
+}
