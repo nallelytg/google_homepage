@@ -13,6 +13,19 @@ div{
 	height: 5px;
 	background-color: black;
 	margin: 3px 0;
+	display: block;
+	float: left;
+	margin-right: 3px;
+}
+
+div#dot_one{
+	margin-top: 50px;
+}
+div#dot_two{
+	margin-top: 58px;
+}
+div#dot_three{
+	margin-top: 66px;
 }
 
 .nav{
