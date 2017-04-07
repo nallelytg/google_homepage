@@ -5,7 +5,10 @@ ul{
 	padding:0;
 	position: absolute;
 	top: 0;
-	right: 0;
+}
+
+li{
+	margin-right: 50px;
 }
 
 div.dots{
