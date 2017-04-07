@@ -8,6 +8,13 @@ ul{
 	right: 0;
 }
 
+div{
+	width: 5px;
+	height: 5px;
+	background-color: black;
+	margin: 3px 0;
+}
+
 .nav{
 	display: inline-block;
 	padding: 20px;
