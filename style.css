@@ -30,6 +30,22 @@ img.img_alignment{
 	margin-top: 140px;
 }
 
+.buttonHolder{
+	text-align: center;
+}
+
+#btn_search{
+	width: 125px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#btn_lucky{
+	width: 125px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
 form {
     text-align: center;
     }
