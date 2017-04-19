@@ -34,17 +34,26 @@ img.img_alignment{
 	text-align: center;
 }
 
-#btn_search{
-	width: 125px;
-	margin-left: auto;
-	margin-right: auto;
+input{
+
 }
 
-#btn_lucky{
-	width: 125px;
+.btn{
+	width: auto;
 	margin-left: auto;
 	margin-right: auto;
+	margin-top: 40px;
+	padding: 10px;
+	background-color: #f6f6f9
+	color:#97979a;
 }
+
+.btn:hover{
+	color: black;
+	border: #333030;
+}
+
+
 
 form {
     text-align: center;
