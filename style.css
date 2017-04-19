@@ -1,43 +1,5 @@
 
-ul{
-	list-style-type: none;
-	margin: 0;
-	padding:0;
-	position: absolute;
-	top: 0;
-	text-align: left;	
-	margin-left: auto;
-}
 
-li{
-	margin-right: 50px;
-	float: left;
-}
-
-div.dots{
-	width: 5px;
-	height: 5px;
-	background-color: black;
-	margin: 3px 0;
-	display: block;
-	float: left;
-	margin-right: 3px;
-}
-
-div#dot_one{
-	margin-top: 20px;/**/
-}
-div#dot_two{
-	margin-top: 28px;
-}
-div#dot_three{
-	margin-top: 36px;
-}
-
-.nav{
-	display: inline-block;
-	padding: 20px;
-}
 
 img.img_alignment{
 	display:block;
