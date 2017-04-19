@@ -18,6 +18,10 @@ li a{
 	text-decoration: none;
 }
 
+li a:hover{
+	text-decoration: underline;
+}
+
 img.img_alignment{
 	display:block;
 	margin-left: auto;
