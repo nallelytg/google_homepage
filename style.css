@@ -42,13 +42,14 @@ img.img_alignment{
 	margin-right: auto;
 	margin-top: 40px;
 	padding: 10px;
-	background-color: #f6f6f9;
-	color: #97979a;
+	background-color: transparent;
+	border: none;
+	color: #726f6f;
 }
 
 .btn:hover{
-	color: black;
-	border: #333030;
+	color: #353333;
+	border-color: #C8C3C3;
 }
 
 form {
