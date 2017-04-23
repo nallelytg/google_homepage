@@ -31,7 +31,7 @@ img.google_apps{
 	display: block;
 	margin-right: 0;
 	margin-left: auto;
-	width: 50px;
+	width: 31px;
 }
 
 li a:hover{
@@ -41,13 +41,16 @@ li a:hover{
 li.left{
 	float: left;
 }
+li.right{
+	float: right;
+}
 
 #img_alignment{
 	display:block;
 	margin-left: auto;
 	margin-right: auto;
 	width: 300px;
-	margin-top: 140px;
+	margin-top: 95px;
 }
 
 .buttonHolder{
